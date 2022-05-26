@@ -9,6 +9,6 @@ peso_mx = 770
 conversion = precio_dolar * peso_mx
 puts conversion
 #variables de texto
-texto_saludo="Hola mundo"
+texto_saludo="Chao mundo!"
 puts texto_saludo
-puts "Hasta el próximo código " + texto_saludo
+puts "Hasta el próximo código... " + texto_saludo
